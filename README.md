@@ -267,4 +267,4 @@ This repository serves as the official landing page for Legends of Runeterra. Th
 **Get the most recent version of Legends of Runeterra today!**
 
 ---
-**Last updated:** 2026-09-12 16:59:57 UTC
+**Last updated:** 2026-09-12 19:13:49 UTC
